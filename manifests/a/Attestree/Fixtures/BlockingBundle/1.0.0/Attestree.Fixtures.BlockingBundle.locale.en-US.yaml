@@ -1,0 +1,11 @@
+PackageIdentifier: Attestree.Fixtures.BlockingBundle
+PackageVersion: 1.0.0
+PackageLocale: en-US
+Publisher: Attestree
+PublisherUrl: https://attestree.com
+PackageName: Attestree Fixtures Blocking Bundle
+PackageUrl: https://github.com/attestree/winget-fixtures
+License: Proprietary
+ShortDescription: A test fixture. A WiX bundle that waits at a window even under /quiet, around an MSI that installs silently.
+ManifestType: defaultLocale
+ManifestVersion: 1.10.0

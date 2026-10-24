@@ -1,0 +1,16 @@
+PackageIdentifier: Attestree.Fixtures.BlockingBundle
+PackageVersion: 1.0.0
+InstallerType: burn
+Scope: machine
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/attestree/winget-fixtures/releases/download/blocking-bundle-1.0.0/Attestree.Fixtures.BlockingBundle-1.0.0-x64.exe
+  InstallerSha256: F4FC334317B551BC559ECBE3B365072972F644FCE39B255DDB81C41BD413F589
+  AppsAndFeaturesEntries:
+  - DisplayName: Attestree Fixtures Blocking Bundle
+    Publisher: Attestree
+    DisplayVersion: 1.0.0
+    ProductCode: '{0C99BAC6-024C-4255-9F38-61D4EC54819C}'
+    UpgradeCode: '{9ECDD4F8-A835-4F76-9CCC-533EE5AE966B}'
+ManifestType: installer
+ManifestVersion: 1.10.0
