@@ -1,0 +1,13 @@
+PackageIdentifier: Attestree.Fixtures.WindowReaderSpike
+PackageVersion: 1.0.0
+InstallerType: exe
+Scope: machine
+InstallerSwitches:
+  Silent: /S
+  SilentWithProgress: /S
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/attestree/winget-fixtures/releases/download/window-reader-spike-1.0.0/Attestree.Fixtures.WindowReaderSpike-1.0.0-x64.exe
+  InstallerSha256: F37589BA27AD7A30A09D58129646F45AD0EC4A65935CB8A17E48EEA9B77CC2EF
+ManifestType: installer
+ManifestVersion: 1.10.0
