@@ -1,0 +1,11 @@
+PackageIdentifier: Attestree.Fixtures.InstallerShapes.ErrorBox
+PackageVersion: 1.0.0
+PackageLocale: en-US
+Publisher: Attestree
+PublisherUrl: https://attestree.com
+PackageName: Attestree Fixtures Installer Shapes (ErrorBox)
+PackageUrl: https://github.com/attestree/winget-fixtures
+License: Proprietary
+ShortDescription: A test fixture. Shows an OK-only message box captioned Setup Error; answered, it exits 1603.
+ManifestType: defaultLocale
+ManifestVersion: 1.10.0

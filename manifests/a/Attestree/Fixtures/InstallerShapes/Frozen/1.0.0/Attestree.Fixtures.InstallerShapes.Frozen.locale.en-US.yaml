@@ -1,0 +1,11 @@
+PackageIdentifier: Attestree.Fixtures.InstallerShapes.Frozen
+PackageVersion: 1.0.0
+PackageLocale: en-US
+Publisher: Attestree
+PublisherUrl: https://attestree.com
+PackageName: Attestree Fixtures Installer Shapes (Frozen)
+PackageUrl: https://github.com/attestree/winget-fixtures
+License: Proprietary
+ShortDescription: A test fixture. Shows an install page whose progress bar never moves.
+ManifestType: defaultLocale
+ManifestVersion: 1.10.0

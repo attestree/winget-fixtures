@@ -1,0 +1,11 @@
+PackageIdentifier: Attestree.Fixtures.InstallerShapes.BusyWizard
+PackageVersion: 1.0.0
+PackageLocale: en-US
+Publisher: Attestree
+PublisherUrl: https://attestree.com
+PackageName: Attestree Fixtures Installer Shapes (BusyWizard)
+PackageUrl: https://github.com/attestree/winget-fixtures
+License: Proprietary
+ShortDescription: A test fixture. Shows the setup wizard page, writes 512 KiB every second, and installs after 3 minutes.
+ManifestType: defaultLocale
+ManifestVersion: 1.10.0

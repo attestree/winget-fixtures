@@ -1,0 +1,11 @@
+PackageIdentifier: Attestree.Fixtures.InstallerShapes.Alert
+PackageVersion: 1.0.0
+PackageLocale: en-US
+Publisher: Attestree
+PublisherUrl: https://attestree.com
+PackageName: Attestree Fixtures Installer Shapes (Alert)
+PackageUrl: https://github.com/attestree/winget-fixtures
+License: Proprietary
+ShortDescription: A test fixture. Shows an OK-only message box captioned Setup, and waits there.
+ManifestType: defaultLocale
+ManifestVersion: 1.10.0

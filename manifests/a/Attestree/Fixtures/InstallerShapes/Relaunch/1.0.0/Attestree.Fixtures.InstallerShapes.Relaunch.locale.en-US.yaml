@@ -1,0 +1,11 @@
+PackageIdentifier: Attestree.Fixtures.InstallerShapes.Relaunch
+PackageVersion: 1.0.0
+PackageLocale: en-US
+Publisher: Attestree
+PublisherUrl: https://attestree.com
+PackageName: Attestree Fixtures Installer Shapes (Relaunch)
+PackageUrl: https://github.com/attestree/winget-fixtures
+License: Proprietary
+ShortDescription: A test fixture. Starts a copy of itself that shows the setup wizard page, and exits after 5 seconds.
+ManifestType: defaultLocale
+ManifestVersion: 1.10.0

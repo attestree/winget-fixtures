@@ -1,0 +1,11 @@
+PackageIdentifier: Attestree.Fixtures.InstallerShapes.SlowWriter
+PackageVersion: 1.0.0
+PackageLocale: en-US
+Publisher: Attestree
+PublisherUrl: https://attestree.com
+PackageName: Attestree Fixtures Installer Shapes (SlowWriter)
+PackageUrl: https://github.com/attestree/winget-fixtures
+License: Proprietary
+ShortDescription: A test fixture. Shows a still progress bar, writes 6 KiB every 2 minutes, and installs after 11 minutes.
+ManifestType: defaultLocale
+ManifestVersion: 1.10.0

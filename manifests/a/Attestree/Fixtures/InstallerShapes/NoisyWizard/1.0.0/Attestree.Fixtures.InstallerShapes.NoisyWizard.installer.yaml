@@ -1,0 +1,13 @@
+PackageIdentifier: Attestree.Fixtures.InstallerShapes.NoisyWizard
+PackageVersion: 1.0.0
+InstallerType: exe
+Scope: machine
+InstallerSwitches:
+  Silent: '/shape=wizard /write=8192:20'
+  SilentWithProgress: '/shape=wizard /write=8192:20'
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/attestree/winget-fixtures/releases/download/installer-shapes-1.0.0/Attestree.Fixtures.InstallerShapes-1.0.0-x64.exe
+  InstallerSha256: AE3CC5EC687C6D86F5C9147783E67FB4A666A52F31B612B88D1E2DC593FE5DB4
+ManifestType: installer
+ManifestVersion: 1.10.0
